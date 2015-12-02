@@ -18,3 +18,5 @@ You'll be making an app to track your chores. This will be similar to the shoppi
   3. Drag a plus `UIBarButtonItem` into the `MasterViewController`. BarButtonItmes are in the object navigator on the bottom right where you pull your `UILabels` from.
   4. Connect up an `IBAction` for the `UIBarButtonItem`
   5. Play with [this tutorial](http://sourcefreeze.com/uialertcontroller-ios-8-using-swift/) (scroll to UIAlertController With TextField) so when the user preses the `+` they are presented with a alert to add a new chore
+
+<a href='https://learn.co/lessons/chore-list' data-visibility='hidden'>View this lesson on Learn.co</a>
